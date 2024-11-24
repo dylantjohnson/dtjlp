@@ -1,3 +1,4 @@
+```c file:dtjlp.c
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -339,3 +340,4 @@ int main(int argc, char **argv) {
 	fprintf(stdout, "finished processing %s\n", md_filename);
 	return 0;
 }
+```
