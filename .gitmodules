@@ -1,3 +1,4 @@
-[submodule "build_tools\\dtjlp"]
-	path = build_tools\\dtjlp
+[submodule "build_tools/dtjlp"]
+	path = build_tools/dtjlp
 	url = https://github.com/dylantjohnson/dtjlp.git
+	branch = v0.1.0
